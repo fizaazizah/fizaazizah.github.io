@@ -1,6 +1,8 @@
 ## Welcome to My Github
 ## Good Night
 
+![VBG PANITIA (1)](https://user-images.githubusercontent.com/104266702/165779475-77a5b1f7-12bb-40df-a4fb-0fbb1387d2a2.png)
+
 You can use the [editor on GitHub](https://github.com/fizaazizah/fizaazizah.github.io/edit/pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
