@@ -1,40 +1,9 @@
-## Welcome to My Github
-## Good Night
+## Hello!
+## Welcome to Fitri Nur Azizah's Github
 
-![VBG PANITIA (1)](https://user-images.githubusercontent.com/104266702/165779475-77a5b1f7-12bb-40df-a4fb-0fbb1387d2a2.png)
+![2021-12-24-091532067](https://user-images.githubusercontent.com/104266702/174334511-80c6b5c8-be66-4057-bd2b-bda352764ba4.jpg)
 
-You can use the [editor on GitHub](https://github.com/fizaazizah/fizaazizah.github.io/edit/pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fizaazizah/fizaazizah.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hello! 
+I am Fitri Nur Azizah. I am an undergraduate Statistics Students at Brawijaya University. 
+Highly interested in data analyst and data science. I have several experiences in analyzing data.
+To know more about me, you can find me on Linkedin by click this link https://www.linkedin.com/in/fitri-nur-azizah-4a77b4207
